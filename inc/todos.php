@@ -3,6 +3,7 @@
 		<article class="pequeno">
 			<span class="tag">download</span>
 			<p>30 anos de luta contra a AIDS</p>
+			<img src="" alt="">
 		</article>
 		<article class="pequeno"></article>
 	</div>
